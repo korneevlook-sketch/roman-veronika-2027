@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Roman and Veronika//Wedding invitation//RU
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:roman-veronika-wedding-20270728
+DTSTAMP:20261123T120000Z
+DTSTART:20270728T120000Z
+DTEND:20270728T205900Z
+SUMMARY:Свадьба Романа и Вероники
+LOCATION:Ивент-парк Берег желаний\, деревня Ш
+ евлино\, Солнечногорск
+DESCRIPTION:Сбор гостей в 15:00 по Москве.\nЯндек
+ с Карты: https://yandex.ru/maps/-/CXcj6IjV\nСайт свадьбы
+ : https://korneevlook-sketch.github.io/roman-veronika-2027/
+URL:https://korneevlook-sketch.github.io/roman-veronika-2027/
+END:VEVENT
+END:VCALENDAR
